@@ -1,0 +1,33 @@
+/* Globals */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* System Index Myfile... */
+.index-content{
+	width: 100%;
+	background-color: #dddddd;
+	overflow: auto;
+	border-bottom: 1px solid #aaa;
+}
+
+.main-content{
+	display:inline-block;
+	float:left;
+	height: 860px;
+	width: calc(100% - 240px);
+	background: white;
+	overflow:auto;
+        text-align: center;
+}
+
+.hr-class {
+	margin: 0;
+}
+
+.content {
+	width: 100%;
+	padding-bottom: 100px;
+	border-bottom: 1px solid #aaa;
+}

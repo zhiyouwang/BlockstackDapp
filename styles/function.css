@@ -1,0 +1,133 @@
+.file_dropbtn {
+    height: 5vh;
+    width: 10vh;
+    color: white;
+    font-size: larger;
+    background-color: #282828;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+
+/* 容器 <div> - 需要定位下拉内容 */
+.file_dropdown {
+    height: 5vh;
+    width: 10vh;
+    float: right;
+}
+
+/* 下拉内容 (默认隐藏) */
+.file_dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #282828;
+    font-size: larger;
+    min-width: 10vh;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* 下拉菜单的链接 */
+.file_link{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* 鼠标移上去后修改下拉菜单链接颜色 */
+.file_link:hover{
+    color: #99D3F5
+}
+/* 在鼠标移上去后显示下拉菜单 */
+.file_dropdown:hover .file_dropdown-content {
+    display: block;
+}
+
+/* 当下拉内容显示后修改下拉按钮的背景颜色 */
+.file_dropdown:hover .file_dropbtn {
+    color: #99D3F5;
+}
+.file_dropbtn {
+    height: 5vh;
+    width: 10vh;
+    color: white;
+    font-size: larger;
+    background-color: #282828;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+
+/* 容器 <div> - 需要定位下拉内容 */
+.file_dropdown {
+    height: 5vh;
+    width: 10vh;
+    float: right;
+}
+
+/* 下拉内容 (默认隐藏) */
+.file_dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #282828;
+    font-size: larger;
+    min-width: 10vh;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* 下拉菜单的链接 */
+.file_link{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* 鼠标移上去后修改下拉菜单链接颜色 */
+.file_link:hover{
+    color: #99D3F5
+}
+/* 在鼠标移上去后显示下拉菜单 */
+.file_dropdown:hover .file_dropdown-content {
+    display: block;
+}
+
+/* 当下拉内容显示后修改下拉按钮的背景颜色 */
+.file_dropdown:hover .file_dropbtn {
+    color: #99D3F5;
+}
+
+.link{
+    height: 5vh;
+    width: 10vh;
+    color: white;
+    font-size: larger;
+    text-decoration: none;
+    float: right;
+    padding-top: 1vh;
+}
+
+.link:hover{
+    color: #99D3F5;
+}
+.profile{
+    height: 5vh;
+    color: white;
+    font-size: larger;
+    text-decoration: none;
+    float: right;
+    padding-top: 1vh;
+}
+.friends_link{
+    height: 5vh;
+    width: 10vh;
+    color: white;
+    font-size: larger;
+    text-decoration: none;
+    float: right;
+    padding-top: 1vh;
+}
+
+.friends_link:hover{
+    color: #99D3F5;
+}

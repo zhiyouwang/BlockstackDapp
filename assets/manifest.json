@@ -1,0 +1,10 @@
+{
+  "name": "质谱数据资产管理系统",
+  "start_url": "localhost:8080",
+  "description": "质谱数据资产管理系统",
+  "icons": [{
+    "src": "http://localhost:8080/mslogo-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}

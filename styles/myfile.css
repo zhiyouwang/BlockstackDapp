@@ -1,0 +1,16 @@
+th {
+	text-align: center;
+}
+
+a {
+	cursor: pointer;
+}
+
+.click-td {
+	cursor: pointer;
+}
+
+td {
+	max-width: 200px;
+	overflow-wrap: break-word;
+}

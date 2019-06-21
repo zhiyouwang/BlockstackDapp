@@ -1,0 +1,18 @@
+.view_container{
+    position: absolute;
+    background: burlywood;
+    height: 782px;
+    width: 100%;
+    text-align: center;
+}
+.draw_container{
+    margin: auto;
+    height: 742px;
+    width: 100%;
+}
+
+.back_button{
+    margin: auto;
+    height: 40px;
+    width: 100%;
+}

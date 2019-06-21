@@ -1,0 +1,13 @@
+.sign_in{
+    height: inherit;
+    width: inherit;
+}
+
+.header{
+    height: 200px;
+    text-align: center;
+}
+.content{
+    height: 542px;
+    text-align: center;
+}

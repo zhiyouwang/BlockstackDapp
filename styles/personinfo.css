@@ -1,0 +1,10 @@
+.personinfo-img {
+    height: 120px;
+    width: 120px;
+}
+
+#personinfo-table {
+    margin:auto;
+    max-width: 600px;
+    text-align: left;
+}

@@ -1,0 +1,23 @@
+.left-bar{
+	margin: 0;
+    padding: 0;
+	display:inline-block;
+	float: left;
+	width: 240px;
+    background-color: #dddddd;
+}
+
+.left-bar li{
+    min-height: 30px;
+    padding: 2px;
+}
+
+.left-bar li:hover {
+    background-color: #aaaaaa;
+    transition: 0.5s;
+}
+
+.left-bar li a {
+    color: black;
+    text-decoration:none
+}

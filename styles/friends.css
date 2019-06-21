@@ -1,0 +1,61 @@
+.friend_div{
+    height: inherit;
+    width: inherit;
+    text-align: center;
+}
+.friend_input{
+    width: 400px;
+}
+.addFriend_btn{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    margin-top: 10px;
+    padding-bottom: 15px;
+    background-image: url("http://localhost:8080/add.png");
+}
+.table_div{
+    color: white;
+    overflow: auto;
+    width: 550px;
+    height: 680px;
+    margin: auto;
+    margin-top: 20px;
+}
+.friends_table, .friends_table tr{
+    background: #859ab7;
+    text-align: center;
+    border: 2px solid white;
+    border-collapse: collapse;
+    margin: auto;
+    width: 550px;
+    color: black;
+}
+.friends_table thead{
+    font-size: xx-large;
+    background-color: #859ab7;
+}
+.friends_table tr:hover{
+    background: white;
+}
+.name_div{
+    margin-top: 8px;
+    float: left;
+    cursor: pointer;
+}
+.deleteFriend_btn{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    background-image: url("http://localhost:8080/delete.png");
+    float: right;
+    margin-right: 20px;
+}

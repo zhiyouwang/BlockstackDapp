@@ -1,0 +1,17 @@
+h6 {
+    color:red;
+}
+
+.form-content {
+    margin: auto;
+    max-width: 720px;
+}
+
+.hidden {
+    display: none;
+}
+
+textarea{
+    resize: none;
+}
+
